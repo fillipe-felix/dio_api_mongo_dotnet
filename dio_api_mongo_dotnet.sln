@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dio_api_mongo_dotnet", "dio_api_mongo_dotnet\dio_api_mongo_dotnet.csproj", "{62E558A4-A692-4AB3-90CC-0C0AD1ABBECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E558A4-A692-4AB3-90CC-0C0AD1ABBECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E558A4-A692-4AB3-90CC-0C0AD1ABBECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E558A4-A692-4AB3-90CC-0C0AD1ABBECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E558A4-A692-4AB3-90CC-0C0AD1ABBECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
