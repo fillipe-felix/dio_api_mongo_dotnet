@@ -15,7 +15,7 @@ namespace dio_api_mongo_dotnet.Data
         {
             try
             {
-                var settings = MongoClientSettings.FromUrl(new MongoUrl(configuration["ConnectionString"]));
+                var settings = MongoClientSettings.FromUrl(new MongoUrl(configuration["ConnectionStrings"]));
                 var client = new MongoClient(settings);
                 DB = client.GetDatabase(configuration["NomeBanco"]);
                 MapClasses();
